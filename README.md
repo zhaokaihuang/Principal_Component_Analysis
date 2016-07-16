@@ -17,5 +17,9 @@ Let's dive into the functions implementing 2 versions of PCA in Matlab.
 - pca1.m      % PCA based on covariance matrix
 - pca2.m      % PCA based on Singular Value Decomposition (SVD)
 - data_vis.m  % visualize iris dataset on computed principal components 
-- img_rec.m   % reconstruct digit dataset using PCA
+- img_rec.m   % reconstruct images from digit dataset using SVD-PCA
+- KPCA.m      % implements Kernel PCA to reduce dimensionality, referred to prof. Deng Cai @ZJU
 ```
+
+Then follows the resultant images got from the applications.
+
