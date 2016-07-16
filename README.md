@@ -25,10 +25,17 @@ Then follows the resultant images got from the applications.
 The data visualization is concerned about projecting iris data on main principal components, by which we can compare the significance of each eigenvector.
 
 <p align="center">
-<img src="./imgs/PC1-PC2.jpg"><br/><br/>
-<i>Figure 1</i>, projection of iris data on PC1-PC2.<br/>
+<img src="./imgs/PC1-PC2.jpg">
+<i>Figure 1</i>, projection of iris data on PC1-PC2.<br/><br/>
 <img src="./imgs/PC1-PC3.jpg"><br/>
-<i>Figure 2</i>, projection of iris data on PC1-PC3.<br/>
+<i>Figure 2</i>, projection of iris data on PC1-PC3.<br/><br/>
 <img src="./imgs/PC2-PC3.jpg"><br/>
-<i>Figure 3</i>, projection of iris data on PC2-PC3.<br/>
+<i>Figure 3</i>, projection of iris data on PC2-PC3.<br/><br/>
 </p>
+
+The digits are reconstructed by using SVD-PCA, which chooses principal components with probability of variance (PoV) being larger than 90%.
+<p align="center">
+<img src="./imgs/rec_digit.jpg"><br/>
+<i>Figure 4</i>, original digit (left) and its reconstructed digit (right).<br/>
+</p>
+
