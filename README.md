@@ -4,7 +4,8 @@ The goal of project is applying PCA to _data visualization_ and _image reconstru
 
 Basically, there are 2 ways to implement PCA, which are derived from **covariance matrix** and **Singular Value Decomposition** (SVD).
 For a given data set d*N (d>>N), the SVD overcomes the implication of covariance matrix that the latter is computatinally expensive (ie., d is the number of dimensionally while N is that of sample).
-* <p>
+<br>
+======
 Below presents 5 steps to build PCA:<p>
 1. Data Centralization<br>
 2. Eigenanalysis/SVD process<br>
