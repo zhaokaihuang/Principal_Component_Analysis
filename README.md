@@ -25,7 +25,7 @@ Then follows the resultant images got from the applications.
 The data visualization is concerned about projecting iris data on main principal components, by which we can compare the significance of each eigenvector.
 
 <p align="center">
-<img src="./imgs/PC1-PC2.jpg">
+<img src="./imgs/PC1-PC2.jpg"><br/>
 <i>Figure 1</i>, projection of iris data on PC1-PC2.<br/><br/>
 <img src="./imgs/PC1-PC3.jpg"><br/>
 <i>Figure 2</i>, projection of iris data on PC1-PC3.<br/><br/>
