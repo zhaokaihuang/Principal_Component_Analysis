@@ -24,6 +24,6 @@ Let's dive into the functions implementing 2 versions of PCA in Matlab.
 Then follows the resultant images got from the applications.
 The data visualization is concerned about projecting iris data on main principal components, by which we can compare the significance of each eigenvector.
 
-[_Figure 1_, projection of iris data on PC1-PC2.](../imgs/PC1-PC2.jpg)
-[_Figure 2_, projection of iris data on PC1-PC3.](../imgs/PC1-PC3.jpg)
-[_Figure 3_, projection of iris data on PC2-PC3.](../imgs/PC2-PC3.jpg)
+![alt tag](./imgs/PC1-PC2.jpg)<br/>_Figure 1_, projection of iris data on PC1-PC2.
+![alt tag](./imgs/PC1-PC3.jpg)<br/>_Figure 2_, projection of iris data on PC1-PC3.
+![alt tag](./imgs/PC2-PC3.jpg)<br/>_Figure 3_, projection of iris data on PC2-PC3.
